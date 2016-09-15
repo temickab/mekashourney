@@ -1,0 +1,120 @@
+
+body {
+	  font: 30px Montserrat, sans-serif;
+      color: white;
+	  line-height: 1.8;
+	  background-image: url("../img/brain.jpg");
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  width: 100%; */
+      
+      
+  }
+  
+  .navbar-custom{
+	  background-color: #483d8b;
+  }
+  
+  .container{
+	  background-color: #black;
+  }
+  
+  .left h3{
+	  float: center;
+  }
+  
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+
+  /*.bg-1{
+	  background-image: url("../img/brain.jpg");
+	  /*background-size: 50%;    url(../img/brain.jpg) put ending message thingy here
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  width: 100%; */
+	
+	
+	  
+      /*background-color: #290033; /* Dark Purple */
+      color: #ffffff;
+  }
+
+  .bg-2 {
+      background-color: grey; /*  */
+      color: #ffffff;
+  }
+  .bg-3 {
+	  background-image: url("../img/france.jpg");
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  width: 100%;
+      color: white;  
+  }
+  
+  .bg-3  a:hover{
+	  color: white;
+	  width: 50px;
+	  height: 10px;
+	  
+  }
+  
+  .bg-4 {
+      background-color: #290033; /* Dark Purple */
+      color: #fff;
+  }
+  
+  
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  
+  .navbar-brand{
+	  color: white;
+  }
+  
+ 
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: black; !important;
+  }
+  
+  
+  
+  
+  navbar navbar-custom li{
+	  color: white;
+	  
+  }
+  
+  @media screen and (min-width: 940px){
+	  
+		body {
+		  font: 30px Montserrat, sans-serif;
+		  color: white;
+		  line-height: 1.8;
+		  background-image: url("../img/brain.jpg");
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-attachment: fixed;
+		  background-size: cover;
+		  width: 100%; */
+			}	
+      
+  }
+  
+  
