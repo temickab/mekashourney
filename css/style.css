@@ -101,6 +101,14 @@ body {
 	  
   }
   
+  .bg-journey{
+	  visibility: 
+  }
+  
+  .bg-journey h1{
+	  
+  }
+  
   @media screen and (min-width: 940px){
 	  
 		body {
@@ -112,9 +120,40 @@ body {
 		  background-repeat: no-repeat;
 		  background-attachment: fixed;
 		  background-size: cover;
-		  width: 100%; */
+		  width: 100%; 
 			}	
-      
+			
+		.left{
+			visibility: hidden;
+		}
+		
+		.progress-bar{
+			visibility: hidden;
+		}
+		
+		.progress{
+			visibility: hidden;
+		}
+		
+		.bg-journey{
+			background-image: url("../img/road.jpg");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			width: 100%;
+		}
+		
+		.photo{
+			
+		}
+		
+		#meha{
+			padding-left: 500px;
+			padding-top: 1px;
+		
+		}
+		
   }
   
   
